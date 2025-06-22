@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Ahmed Basil</h1>
-<h3 align="center">Front-End Web Developer | Expertise in HTML, CSS, Bootstrap, JS | Java and Python enthusiast | Custom code Web Design</h3>
+<h3 align="center">Front-End Web Developer | WordPress developer | Java and Python enthusiast | Custom code Web Design</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedbasil05&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedbasil05" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedbasil05" alt="ahmedbasil05" /></a> </p>
 
 
-- 🔭 I’m currently working on **Personal Portfolio**
+- 🔭 I’m currently working on **Ecommerce website**
 
-- 🌱 I’m currently learning **JavaScript/ React JS**
+- 🌱 I’m currently learning **Python**
 
 - 👯 I’m looking to collaborate on **Open AI web Chatbot**
 
