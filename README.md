@@ -6,13 +6,13 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedbasil05" alt="ahmedbasil05" /></a> </p>
 
 
-- 🔭 I’m currently working on **Ecommerce website**
+- 🔭 I’m currently working on **Machine Learning**
 
 - 🌱 I’m currently learning **Python**
 
 - 👯 I’m looking to collaborate on **Open AI web Chatbot**
 
-- 💬 Ask me about **Web Development, Front-end webs, Optimization**
+- 💬 Ask me about **Web Development, Front-end webs, Python**
 
 - 📫 How to reach me **ahmedbasil2005@gmail.com**
 
