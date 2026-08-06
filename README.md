@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Basil</h1>
-<h3 align="center">Machine Learning & AI Enthusiast | Python Developer | Data Analyst | Front-End Web Developer</h3>
+<h3 align="center">Machine Learning & AI Enthusiast | Data Analyst | Mobile App Developer</h3>
 
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=ahmedbasil05&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedbasil05" /> 
@@ -11,13 +11,13 @@
 </a> 
 </p>
 
-- 🔭 I’m currently working on **Data Analysis, Data Visualization & Machine Learning Projects alongside Web Dev.**
+- 🔭 I’m currently working on **Data Analysis, Data Visualization & Machine Learning Projects alongside App Dev.**
 
-- 🌱 I’m currently learning **Advanced Machine Learning & Deep Learning**
+- 🌱 I’m currently learning **Advanced Machine Learning & Deep Learning/ Mobile App Development**
 
-- 👯 I’m looking to collaborate on **ML & AI Projects and Web apps with AI integration**
+- 👯 I’m looking to collaborate on **ML & AI Projects and Web apps/Mobile Apps with AI integration**
 
-- 💬 Ask me about **Python, Machine Learning, Data Science and Web Development**
+- 💬 Ask me about **Python, Machine Learning, Data Science and App Development**
 
 - 📫 How to reach me **ahmedbasil2005@gmail.com**
 
@@ -88,12 +88,9 @@
 </a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="kotlin" width="40" height="40"/>
 </a>
 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-</a>
 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
