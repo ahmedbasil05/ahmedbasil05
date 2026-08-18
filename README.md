@@ -1,20 +1,20 @@
 <h1 align="center">Ahmed Basil</h1>
 
 <p align="center">
-  <b>🤖 Machine Learning & AI &nbsp;|&nbsp; 📊 Data Analytics &nbsp;|&nbsp; 💻 Software & Embedded Systems</b>
+  <b>🤖 Machine Learning & AI Enthusiast &nbsp;|&nbsp; 📱 Mobile Application Development &nbsp;|&nbsp; 📊 Data Analytics</b>
 </p>
 
 <p align="center">
-  <i>Building data-driven solutions and intelligent software.</i>
+  <i>Building intelligent, data-driven, and practical applications.</i>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I am interested in **Machine Learning, Artificial Intelligence, Data Analytics, and Software Development**, with additional experience in **Mobile and Embedded Systems**.
+I am passionate about **Machine Learning, Artificial Intelligence, Data Analytics, and Mobile Application Development**.
 
-My focus is on developing practical, data-driven solutions while continuously strengthening my foundations in **Computer Science, Machine Learning, Software Engineering, and Embedded Systems**.
+I enjoy working with data, developing intelligent solutions, and building practical applications while continuously strengthening my foundations in **Computer Science, Machine Learning, Software Engineering, and Embedded Systems**.
 
 ---
 
@@ -44,21 +44,16 @@ My focus is on developing practical, data-driven solutions while continuously st
 <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" width="42" height="42" alt="Streamlit"/>
 </p>
 
-### 📱 Mobile & Application Development
+### 📱 Mobile Application Development
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="42" height="42" alt="Flutter"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetpackcompose/jetpackcompose-original.svg" width="42" height="42" alt="Jetpack Compose"/>
 </p>
 
-### ⚙️ Systems & Embedded
+### ⚙️ Embedded Systems
 
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="42" height="42" alt="C"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="42" height="42" alt="C++"/>
-</p>
-
-**Areas:** Embedded Systems • Microcontrollers • Low-Level Programming • Hardware-Software Integration
+**Embedded Systems • Microcontrollers • Low-Level Programming • Hardware-Software Integration**
 
 ### 🗄️ Database
 
@@ -73,7 +68,6 @@ My focus is on developing practical, data-driven solutions while continuously st
 * 🤖 Artificial Intelligence & Machine Learning
 * 📊 Data Analytics & Visualization
 * 🧠 Deep Learning
-* 💻 Software Development
 * 📱 Mobile Application Development
 * ⚙️ Embedded Systems
 * 🔗 AI-Powered Applications
