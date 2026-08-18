@@ -1,142 +1,107 @@
-<h1 align="center">Hi 👋, I'm Ahmed Basil</h1>
-
-<h3 align="center">
-Machine Learning & AI Enthusiast | Data Analyst | Mobile App Developer
-</h3>
+<h1 align="center">Ahmed Basil</h1>
 
 <p align="center">
-  <b>Turning data into insights and building intelligent applications.</b>
+  <b>🤖 Machine Learning & AI &nbsp;|&nbsp; 📊 Data Analytics &nbsp;|&nbsp; 💻 Software & Embedded Systems</b>
+</p>
+
+<p align="center">
+  <i>Building data-driven solutions and intelligent software.</i>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm passionate about **Machine Learning, Artificial Intelligence, Data Analysis, and Mobile Application Development**.
+I am interested in **Machine Learning, Artificial Intelligence, Data Analytics, and Software Development**, with additional experience in **Mobile and Embedded Systems**.
 
-I enjoy working with data, developing machine learning solutions, creating visualizations, and building practical applications that solve real-world problems.
-
-Currently focused on strengthening my skills in **Machine Learning, Deep Learning, Data Science, and modern mobile development**.
+My focus is on developing practical, data-driven solutions while continuously strengthening my foundations in **Computer Science, Machine Learning, Software Engineering, and Embedded Systems**.
 
 ---
 
-## 🧠 Tech Stack
+## 🛠️ Technical Skills
 
-### Languages
+### 💻 Programming Languages
 
 <p align="left">
-<a href="https://www.python.org">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
-</a>
-
-<a href="https://isocpp.org/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++"/>
-</a>
-
-<a href="https://kotlinlang.org/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="45" height="45" alt="Kotlin"/>
-</a>
-
-<a href="https://www.mathworks.com/products/matlab.html">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" width="45" height="45" alt="MATLAB"/>
-</a>
-
-<a href="https://dart.dev">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="45" height="45" alt="Dart"/>
-</a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42" height="42" alt="Python"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="42" height="42" alt="C"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="42" height="42" alt="C++"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="42" height="42" alt="Java"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="42" height="42" alt="JavaScript"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="42" height="42" alt="Kotlin"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" width="42" height="42" alt="MATLAB"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="42" height="42" alt="Dart"/>
 </p>
 
-### Machine Learning & Data Science
+### 🤖 Machine Learning & Data
 
 <p align="left">
-<a href="https://numpy.org/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45" height="45" alt="NumPy"/>
-</a>
-
-<a href="https://pandas.pydata.org/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" height="45" alt="Pandas"/>
-</a>
-
-<a href="https://matplotlib.org/">
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="45" height="45" alt="Matplotlib"/>
-</a>
-
-<a href="https://seaborn.pydata.org/">
-<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="45" height="45" alt="Seaborn"/>
-</a>
-
-<a href="https://scikit-learn.org/">
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45" height="45" alt="Scikit-Learn"/>
-</a>
-
-<a href="https://streamlit.io/">
-<img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" width="45" height="45" alt="Streamlit"/>
-</a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="42" height="42" alt="NumPy"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="42" height="42" alt="Pandas"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="42" height="42" alt="Matplotlib"/>
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="42" height="42" alt="Seaborn"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="42" height="42" alt="Scikit-Learn"/>
+<img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" width="42" height="42" alt="Streamlit"/>
 </p>
 
-### Mobile Development
+### 📱 Mobile & Application Development
 
 <p align="left">
-<a href="https://flutter.dev">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="45" height="45" alt="Flutter"/>
-</a>
-
-<a href="https://developer.android.com/jetpack/compose">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetpackcompose/jetpackcompose-original.svg" width="45" height="45" alt="Jetpack Compose"/>
-</a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="42" height="42" alt="Flutter"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetpackcompose/jetpackcompose-original.svg" width="42" height="42" alt="Jetpack Compose"/>
 </p>
 
-### Database & Tools
+### ⚙️ Systems & Embedded
 
 <p align="left">
-<a href="https://www.mysql.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45" alt="MySQL"/>
-</a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="42" height="42" alt="C"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="42" height="42" alt="C++"/>
+</p>
+
+**Areas:** Embedded Systems • Microcontrollers • Low-Level Programming • Hardware-Software Integration
+
+### 🗄️ Database
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="48" height="48" alt="MySQL"/>
 </p>
 
 ---
 
 ## 🎯 Areas of Interest
 
-* 🤖 Machine Learning & Artificial Intelligence
-* 📊 Data Analysis & Data Visualization
+* 🤖 Artificial Intelligence & Machine Learning
+* 📊 Data Analytics & Visualization
 * 🧠 Deep Learning
+* 💻 Software Development
 * 📱 Mobile Application Development
+* ⚙️ Embedded Systems
 * 🔗 AI-Powered Applications
-* 📈 Data-Driven Solutions
 
 ---
 
 ## 🌱 Currently Learning
 
-**Advanced Machine Learning • Deep Learning • Data Science • Kotlin • Jetpack Compose • Flutter**
+**Advanced Machine Learning • Deep Learning • Data Science • Embedded Systems • Kotlin • Jetpack Compose**
 
 ---
 
-## 📫 Connect With Me
+## 🤝 Connect With Me
 
 <p align="left">
-
-<a href="https://www.linkedin.com/in/ahmed-basil-709581341/" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="35"/>
+<a href="https://www.linkedin.com/in/ahmed-basil-709581341/">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="32" height="32" alt="LinkedIn"/>
 </a>
-
-<a href="https://twitter.com/ffsmannn" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="35"/>
+&nbsp;&nbsp;
+<a href="https://twitter.com/ffsmannn">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="32" height="32" alt="Twitter"/>
 </a>
-
-<a href="https://www.instagram.com/ffsbasil/" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="35"/>
+&nbsp;&nbsp;
+<a href="https://www.instagram.com/ffsbasil/">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="32" height="32" alt="Instagram"/>
 </a>
-
+&nbsp;&nbsp;
 <a href="mailto:ahmedbasil2005@gmail.com">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="35" alt="Email"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="32" height="32" alt="Email"/>
 </a>
-
-</p>
-
----
-
-<p align="center">
-  <i>Always learning. Always building. Always improving.</i>
 </p>
